@@ -13,21 +13,10 @@ Mathematics BSc holder, currently pursuing a MSc in Information Systems at the H
 - **Tools/Environment**: Git, Git Bash, VS Code, IntelliJ, Bootstrap
 - **Other**: Linux, Bash scripting
 
-<!--## 📚 Projects
-
-Here you can add a list of your significant projects, either for your MSc, from your Coding Factory bootcamp or personal projects. Provide a brief description of what each project does and link it to the project repository if available.
-
-- **Project 1**: Brief description. [Link to project](#)
-- **Project 2**: Brief description. [Link to project](#)-->
-
 ## 📫 How to reach me
-
-<!--You can reach me at my email: [Email] -->
 
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/xkontos/)
-
-
 
 <!--
 **ckontos82/ckontos82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
