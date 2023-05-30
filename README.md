@@ -4,14 +4,15 @@ I'm a Mathematics BSc holder, currently pursuing a MSc in Information Systems at
 
 ## 🎓 Education
 
-- **BSc, Mathematics**, NKUA, 2007
+- **Coding Bootcamp, Coding Factory** (In Progress), Athens University of Economics and Business
 - **MSc, Information Systems** (In Progress), Hellenic Open University
-- **Coding Bootcamp, Coding Factory**, AUEB
+- **BSc, Mathematics**, National and Kapodistrian University of Athens, 2007
 
 ## 💻 Technical Skills
 
 - **Languages**: Java, C, SQL, HTML 5, CSS
-- **Tools/Environment**: Git, VS Code, IntelliJ
+- **Tools/Environment**: Git, Git Bash, VS Code, IntelliJ, Bootstrap
+- **Other**: Linux, Bash scripting
 
 <!--## 📚 Projects
 
@@ -25,7 +26,7 @@ Here you can add a list of your significant projects, either for your MSc, from 
 <!--You can reach me at my email: [Email] -->
 
 You can find me on:
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/xkontos/)
+- [LinkedIn](https://www.linkedin.com/in/xkontos/)
 
 
 
