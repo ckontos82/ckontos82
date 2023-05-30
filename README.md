@@ -10,7 +10,7 @@ I'm a Mathematics BSc holder, currently pursuing a MSc in Information Systems at
 
 ## 💻 Technical Skills
 
-- **Languages**: Java, C, SQL, HTML 5, CSS
+- **Languages**: Java, C/C++, SQL, HTML 5, CSS
 - **Tools/Environment**: Git, Git Bash, VS Code, IntelliJ, Bootstrap
 - **Other**: Linux, Bash scripting
 
