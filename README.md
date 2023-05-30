@@ -1,6 +1,6 @@
 # Charalampos Kontos
 
-Mathematics BSc holder, currently pursuing a MSc in Information Systems at the Hellenic Open University and enhancing my coding skills through a bootcamp called "Coding Factory" provided by AUEB.
+Mathematics BSc holder, currently pursuing a MSc in Information Systems at the Hellenic Open University and enhancing my coding skills through the "Coding Factory" Full Stack Coding Bootcamp, provided by AUEB.
 
 ## 🎓 Education
 
