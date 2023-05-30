@@ -1,5 +1,4 @@
-# Charalampos Kontos
-### Pronouns: He/Him
+# Charalampos Kontos (He/Him)
 Mathematics BSc holder, currently pursuing a MSc in Information Systems at the Hellenic Open University and enhancing my coding skills through the "Coding Factory" Full Stack Coding Bootcamp, provided by AUEB.
 
 ## 🎓 Education
