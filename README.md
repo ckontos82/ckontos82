@@ -4,7 +4,7 @@ Mathematics BSc holder, currently pursuing a MSc in Information Systems at the H
 
 ## 🎓 Education
 
-- **Coding Bootcamp, Coding Factory** (In Progress), Athens University of Economics and Business
+- **"Coding Factory", Full Stack Coding Bootcamp** (In Progress), Athens University of Economics and Business
 - **MSc, Information Systems** (In Progress), Hellenic Open University
 - **BSc, Mathematics**, National and Kapodistrian University of Athens, 2007
 
