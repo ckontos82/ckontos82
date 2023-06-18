@@ -18,4 +18,4 @@ Mathematics BSc holder, currently pursuing a MSc in Information Systems at the H
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/xkontos/)
 
-## [🌎 My personal Webpage](https://ckontos82.github.io/) (Right click -> Open in new tab)
+## [🌎 My personal Webpage](https://ckontos82.github.io/ "Right click -> Open in new tab")
