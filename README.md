@@ -9,7 +9,7 @@ Mathematics BSc holder, currently pursuing a MSc in Information Systems at the H
 
 ## 💻 Technical Skills
 
-- **Languages**: Java, C/C++, SQL, HTML 5, CSS, JavaScript
+- **Languages**: Java, C, JavaScript, SQL, HTML 5, CSS
 - **Tools/Environment**: Git, Git Bash, VS Code, IntelliJ, Node.js, Bootstrap
 - **Other**: Linux, Bash scripting
 
