@@ -3,7 +3,7 @@ Software Engineer, Mathematics BSc holder, currently pursuing a MSc in Informati
 
 ## 🎓 Education
 
-- **"Coding Factory", Full Stack Coding Bootcamp** (In Progress), Athens University of Economics and Business
+- **"Coding Factory", Full Stack Coding Bootcamp**, Athens University of Economics and Business
 - **MSc, Information Systems** (In Progress), Hellenic Open University
 - **BSc, Mathematics**, National and Kapodistrian University of Athens, 2007
 
