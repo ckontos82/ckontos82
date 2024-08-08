@@ -9,8 +9,8 @@ Software Engineer, Mathematics BSc holder, currently pursuing a MSc in Informati
 
 ## 💻 Technical Skills
 
-- **Languages**: C#, Java, C/C++, JavaScript, SQL, HTML 5, CSS
-- **Technologies**: ASP.Net Core, Entity Framework, Spring Framework, Spring Boot, Hibernate, API, MVC, SOA, Design Patterns, Maven
+- **Languages**: C#, SQL, Java, JavaScript, HTML 5, CSS, C/C++, 
+- **Technologies**: ASP.Net Core, Entity Framework, Spring Framework, Spring Boot, Hibernate, REST APIs, MVC, SOA, Design Patterns, Maven
 - **Tools/Environment**: Git, Git Bash, Visual Studio Enterprise Edition, VS Code, IntelliJ, Node.js, Bootstrap
 - **Other**: Linux, Bash scripting
 
