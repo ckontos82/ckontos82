@@ -71,12 +71,3 @@ Daily tools for development, debugging, version control, and productivity.
 - **Personal Website**: [ckontos82.github.io](https://ckontos82.github.io/)
 
 ---
-
-## 📊 GitHub Stats (Optional)
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ckontos82&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckontos82&layout=compact&theme=default" />
-</p>
-
----
