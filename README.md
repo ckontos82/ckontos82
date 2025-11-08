@@ -8,16 +8,20 @@ Actively working as a **Software Engineer since November 2023**.
 ## 🚀 Tech Stack
 
 ### **Languages & Frameworks**
+Core programming languages and major ecosystems I use in backend and full-stack projects.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,c,cpp" />
 </p>
 
 ### **Backend & Data**
+Technologies used for building APIs, ORM/data access, and database-driven applications.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,hibernate,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=dotnet,hibernate,mysql,sqlite,azure" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
 </p>
 
 ### **Tools & Platforms**
+Tools I use every day for development, version control, and productivity.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,bash,nodejs,idea" />
 </p>
