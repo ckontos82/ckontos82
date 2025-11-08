@@ -1,24 +1,37 @@
-# Charalampos Kontos
-Software Engineer, Mathematics BSc holder.
-Working on ASP.NET Core / .NET Framework technologies, Backend Development.
-Actively working as a Software Engineer since November 2023.
+# 👋 Hi, I'm **Charalampos Kontos**
+
+**Software Engineer** (Backend) • **ASP.NET Core / .NET** • **Mathematics BSc**  
+Actively working as a **Software Engineer since November 2023**.
+
+---
+
+## 🚀 Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,c,cpp" />
+</p>
+
+### **Backend & Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,hibernate,postgres,mysql,sqlite" />
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,bash,nodejs,idea" />
+</p>
+
+---
 
 ## 🎓 Education
 
-- **"Coding Factory", Full Stack Coding Bootcamp**, Athens University of Economics and Business, Mar 2023 - Dec 2023
-- **MSc, Information Systems** (In Progress), Hellenic Open University
-- **BSc, Mathematics**, National and Kapodistrian University of Athens, 2007
+- **"Coding Factory" — Full Stack Bootcamp**, Athens University of Economics and Business (Mar 2023 – Dec 2023)  
+- **MSc, Information Systems** (In Progress), Hellenic Open University  
+- **BSc, Mathematics**, National and Kapodistrian University of Athens  
 
-## 💻 Technical Skills
+---
 
-- **Languages**: C#, SQL, Java, JavaScript, HTML 5, CSS, C/C++, 
-- **Technologies**: ASP.Net Core, Entity Framework, Spring Framework, Spring Boot, Hibernate, REST APIs, MVC, SOA, Design Patterns, Maven
-- **Tools/Environment**: Git, Git Bash, Visual Studio Enterprise Edition, VS Code, IntelliJ, Node.js, Bootstrap
-- **Other**: Linux, Bash scripting
+## 💼 Experience
 
-## 📫 How to reach me
-
-You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/xkontos/ "Right click -> Open in new tab")
-
-## [🌎 My personal Webpage](https://ckontos82.github.io/ "Right click -> Open in new tab")
+- **Software Engineer** — Backend development with **ASP.NET Core**, **REST APIs**, **Entit**
