@@ -1,6 +1,7 @@
 # Charalampos Kontos
-Software Engineer, Mathematics BSc holder. 
-Working on ASP.NET Core technology, Backend Development.
+Software Engineer, Mathematics BSc holder.
+Working on ASP.NET Core / .NET Framework technologies, Backend Development.
+Actively working as a Software Engineer since November 2023.
 
 ## 🎓 Education
 
