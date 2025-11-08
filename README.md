@@ -34,4 +34,23 @@ Actively working as a **Software Engineer since November 2023**.
 
 ## 💼 Experience
 
-- **Software Engineer** — Backend development with **ASP.NET Core**, **REST APIs**, **Entit**
+- **Software Engineer** — Backend development with **ASP.NET Core**, **REST APIs**, **Entity Framework**, SQL, enterprise ERP systems  
+- Working professionally since **November 2023**
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [linkedin.com/in/xkontos](https://www.linkedin.com/in/xkontos/)  
+- **Personal Website**: [ckontos82.github.io](https://ckontos82.github.io/)
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ckontos82&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckontos82&layout=compact&theme=default" />
+</p>
+
+---
