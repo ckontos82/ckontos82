@@ -31,7 +31,6 @@ Daily tools for development, debugging, version control, and productivity.
 - **Visual Studio Enterprise** — Main IDE for .NET development  
 - **VS Code & IntelliJ IDEA** — Secondary editors for cross-language work  
 - **Git / GitHub** — Version control, branching, CI workflows  
-- **Linux & Bash** — Scripting, server work, CLI productivity  
 - **Node.js** — Utility tooling and occasional backend prototypes
 
 ---
