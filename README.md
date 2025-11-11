@@ -10,9 +10,9 @@ Actively working as a **Software Engineer since November 2023**.
 ### **Languages & Frameworks**
 I use these languages for backend development, API design, enterprise systems, and general-purpose coding.
 - **C# (.NET)** — Primary language for backend, APIs, enterprise systems  
-- **Java** — Strong grounding from Spring & Hibernate projects  
 - **JavaScript** — Utility scripting and lightweight front-end tasks  
-- **HTML5 / CSS** — Markup and basic UI structure when needed  
+- **HTML5 / CSS** — Markup and basic UI structure when needed
+- - **Java** — Strong grounding from Spring & Hibernate projects  
 - **C / C++** — Low-level understanding and academic background
 
 ---
@@ -20,10 +20,10 @@ I use these languages for backend development, API design, enterprise systems, a
 ### **Backend & Data Technologies**
 Technologies used for building APIs, ORM work, and interacting with relational databases.
 - **ASP.NET Core** — Web APIs, MVC architecture, backend development  
-- **Entity Framework** — ORM, database access, migrations, LINQ  
-- **Hibernate** — Java ORM experience  
+- **Entity Framework** — ORM, database access, migrations, LINQ   
 - **SQL Server** — Main database system I work with professionally  
 - **Azure** — Cloud deployment, hosting, and integrations
+- **Hibernate** — Java ORM experience 
 
 ---
 
