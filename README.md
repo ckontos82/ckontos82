@@ -22,7 +22,6 @@ Technologies used for building APIs, ORM work, and interacting with relational d
 - **ASP.NET Core** — Web APIs, MVC architecture, backend development  
 - **Entity Framework** — ORM, database access, migrations, LINQ   
 - **SQL Server** — Main database system I work with professionally  
-- **Azure** — Cloud deployment, hosting, and integrations
 - **Hibernate** — Java ORM experience 
 
 ---
