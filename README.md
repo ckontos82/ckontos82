@@ -15,10 +15,6 @@ I use these languages for backend development, API design, enterprise systems, a
 - **HTML5 / CSS** — Markup and basic UI structure when needed  
 - **C / C++** — Low-level understanding and academic background
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,c,cpp" />
-</p>
-
 ---
 
 ### **Backend & Data Technologies**
@@ -27,13 +23,7 @@ Technologies used for building APIs, ORM work, and interacting with relational d
 - **Entity Framework** — ORM, database access, migrations, LINQ  
 - **Hibernate** — Java ORM experience  
 - **SQL Server** — Main database system I work with professionally  
-- **MySQL / SQLite** — Lightweight or alternative relational engines  
 - **Azure** — Cloud deployment, hosting, and integrations
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,hibernate,mysql,sqlite,azure" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
-</p>
 
 ---
 
@@ -44,10 +34,6 @@ Daily tools for development, debugging, version control, and productivity.
 - **Git / GitHub** — Version control, branching, CI workflows  
 - **Linux & Bash** — Scripting, server work, CLI productivity  
 - **Node.js** — Utility tooling and occasional backend prototypes
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,bash,nodejs,idea" />
-</p>
 
 ---
 
