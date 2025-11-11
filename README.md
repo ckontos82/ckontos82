@@ -12,7 +12,7 @@ I use these languages for backend development, API design, enterprise systems, a
 - **C# (.NET)** — Primary language for backend, APIs, enterprise systems  
 - **JavaScript** — Utility scripting and lightweight front-end tasks  
 - **HTML5 / CSS** — Markup and basic UI structure when needed
-- **Java** — Strong grounding from Spring & Hibernate projects  
+- **Java** — Strong grounding from Spring & Hibernate projects 
 - **C / C++** — Low-level understanding and academic background
 
 ---
